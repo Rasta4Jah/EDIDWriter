@@ -5,8 +5,7 @@ Warning: This program modifies the EEPROM data in the display. If something goes
     A message from ToastyX:
 
     Over the years, I have created various monitor-related software and provided support for free. I would like to continue providing updates and work on new ideas, but I need your support. If you find my software useful, please consider supporting me through Patreon:
-
-    [Image: patreon.png]
+https://www.patreon.com/ToastyX (Patreon link for donations to the original author, ToastyX)
 
 
 Requirements:
