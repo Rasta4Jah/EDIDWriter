@@ -1,0 +1,14 @@
+#ifndef EDW_H
+#define EDW_H
+
+// Includes ////////////////////////////////////////////////////////////////
+
+#include "EDW_AmdLibrary.h"
+#include "EDW_Display.h"
+#include "EDW_DisplayData.h"
+#include "EDW_DisplayList.h"
+#include "EDW_NvidiaLibrary.h"
+
+////////////////////////////////////////////////////////////////////////////
+
+#endif
